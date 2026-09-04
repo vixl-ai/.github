@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./vixl.jpg" alt="Vixl AI" width="480" />
-</p>
-
 <h1 align="center">Vixl AI</h1>
 
 <p align="center">
